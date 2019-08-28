@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Psychology</string>
+    <string name="title">Suspiciously similar to Psychology</string>
+    <string name="question1Hint">Enter text here</string>
+    <string name="question1">1.  What part of the brain is newest, and is responsible for higher order thinking?  Hint:  Among species, mammals are the only ones with this.</string>
+    <string name="question2">2.  What part of the brain is dormant while you sleep, and is the prevailing reason it can be so difficult to distinguish dreams from reality while dreaming?</string>
+    <string name="question3">3.  What are the two main modes of thinking, as defined by Daniel Kahneman and Amos Tversky?</string>
+    <string name="question4">4.  What is embodied cognition?</string>
+    <string name="question2Answer1">Thalamus</string>
+    <string name="question2Answer2">Prefrontal cortex</string>
+    <string name="question2Answer3">Occipital lobe</string>
+    <string name="question2Answer4">Pre-motor cortex</string>
+    <string name="question3Answer1">System 1 and System 2</string>
+    <string name="question3Answer2">Heuristic and Systematic</string>
+    <string name="question3Answer3">Convergent and Divergent</string>
+    <string name="question3Answer4">Sequential and Holistic</string>
+    <string name="question4Answer1">The argument that the motor system influences our cognition, just as the mind influences the body.</string>
+    <string name="question4Answer2">The argument that people determine their attitudes and preferences by interpreting the meaning of their own behavior.</string>
+    <string name="question4Answer3">That facial movement can influence emotional experience.</string>
+    <string name="submitButton">Submit</string>
+</resources>

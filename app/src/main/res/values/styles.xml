@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#42A5F5</item>
+        <item name="colorPrimaryDark">#0D47A1</item>
+        <item name="colorAccent">#7986CB</item>
+    </style>
+
+    <style name="TitlePadding">
+        <item name="android:layout_marginTop">25dp</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+    
+    <style name="QuestionPadding">
+        <item name="android:layout_marginTop">45dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:fontFamily">Sans-serif</item>
+    </style>
+
+    <style name="AnswerPadding">
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="CheckBoxPadding">
+        <item name="android:layout_marginStart">35dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="SubmitButton">
+        <item name="android:layout_marginTop">60dp</item>
+        <item name="android:layout_marginBottom">27dp</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>
